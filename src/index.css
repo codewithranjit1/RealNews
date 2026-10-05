@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+html , body{
+    background-color: gray;
+    color: black;
+}
+
+.scrollbar_none{
+    scrollbar-width: none;
+}
